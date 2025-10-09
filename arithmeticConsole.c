@@ -1,7 +1,4 @@
 /******************************************************************************
-
-Name: Honeleth C. Abapo
-Date: October 6, 2025
 Decription: Input 2 numbers. Do arithmetic operations. Display the results.
 
 *******************************************************************************/

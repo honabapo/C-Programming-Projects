@@ -3,8 +3,6 @@ Push yourself, because
 no one else is going
 to do it for you
 -unknown-
-Name: Abapo, Honeleth C.
-Date: September 30, 2025
 Description: Data Types - Laboratory Exercise
 */
 
@@ -40,4 +38,5 @@ return 0;
 printf("%c%c%c%c%c%c%c%c%c%c%c%c%c",103,111,111,100,32,108,117,99,107,33,32,60,51);
 }
 // code ends here.
+
 

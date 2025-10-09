@@ -1,11 +1,3 @@
-/******************************************************************************
-
-Name: Honeleth C. Abapo
-Date: October 5, 2025
-Decription: Input 2 numbers. Do arithmetic operations. Display the results.
-
-*******************************************************************************/
-
 #include <stdio.h>
 
 int main()

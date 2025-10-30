@@ -1,6 +1,5 @@
 /******************************************************************************
 
-Name: Honeleth C. Abapo
 Date: October 30, 2025
 Description: Demonstrate automatic promotion of data types
 

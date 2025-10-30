@@ -1,6 +1,5 @@
 /******************************************************************************
 
-Name: Honeleth C. Abapo
 Date: October 30, 2025
 Description: Demonstrate casting of numeric types.
 

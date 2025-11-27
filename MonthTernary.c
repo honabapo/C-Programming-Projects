@@ -9,17 +9,17 @@ Description: Ternary Operator: Activity: Maximum Days in a Month
 #include <stdio.h>
 
 int main() {
-    int moy;                                             //moy= month of the year
+    int month;                                             
     int days;
 
     printf("Enter a number (1-12): ");                   // Ask user for month number
-    scanf("%d", &moy);                                   // Read user input
+    scanf("%d", &month);                                   // Read user input
 
     //  // Ternary logic to determine number of days
     
-    days = (moy < 1 || moy > 12) ? -1 :                  // Invalid month
-           (moy == 2) ? 28 :                             // February
-           (moy == 4 || moy == 6 || moy == 9 || moy == 11) ? 30 :          // 30-day months
+    days = (month < 1 || month > 12) ? -1 :                  // Invalid month
+           (month == 2) ? 28 :                             // February
+           (month == 4 || month == 6 || month == 9 || month == 11) ? 30 :          // 30-day months
            31;                                                             // All others have 31 days
 
     if (days == -1) {
